@@ -1,0 +1,82 @@
+FFT >> 5e
+Archer
+>>Battlemaster Fighter, Champion Fighter
+Chemist
+>>???
+Cleric/Princess
+>>Cleric [Focus on Protective Spells]???
+>>Abjuration Wizard
+Dancer
+>>Bard [Focus on (Lore)Cutting Words, Debuff Spells]
+Dragonkin
+>>Nature Cleric + Draconic Bloodline?
+>>Draconic Sorcerer
+>>Light Cleric?
+Dragoon
+>>Champion/Battlemaster Fighter with a Spear
+Geomancer
+>>Ancients Paladin - Cut paladin stuff, new spell list.
+Knight
+>>Battlemaster Fighter, Champion Fighter
+Dark Knight
+>>Eldritch Knight - Bad Spell List
+>>Oath of Blood Paladin
+>>Vengeance Paladin - Good Decent Mechanical Fit. - Swap Divine Sense and Lay on Hands ACFs - Bring in some White Knight Powers? Spellcasting?
+>>Oathbreaker Paladin
+>>Some Kind of Oathbreaker/Vengeance Paladin Hybrid
+White Knight
+>>Eldritch Knight
+>>Devotion Paladin - Flavorful, partial mechanical fit. Swap Divine Sense and Lay on Hands ACFs - Bring in some White Knight Powers? Spellcasting? Swap "Turn the Unholy"?
+>>Vengeance Paladin - Good Fluff Fit for Wiegraf.
+Arc Knight
+>>War Cleric??
+>>Devotion Paladin
+>>Ancients Paladin
+Templar
+>>War Cleric (No, not really)
+Machinist
+>>Gunsmith Artificer [The spellcasting isn't a good fit, and "Thunder Cannon" class features aren't great for an FFT Style machinist, but it's the best we've got.]
+Black Mage
+>>Light Cleric
+>>Draconic Sorcerer
+>>Storm Sorcerer
+>>Evocation Wizard
+Time Mage
+>>?? Divination Wizard?
+White Mage
+>>Life Cleric :)
+
+
+  
+
+Bard
+>>Bard [(Valor) , Focus Buff Spells] - The Spell List is insufficiently support based.
+
+Chemist
+>>Alchemist Artificer [The Spellcasting isn't a great fit though...]
+
+Dancer
+>>Bard [Focus on (Lore)Cutting Words, Debuff Spells]
+
+
+
+
+
+
+
+Samurai
+>>Battlemaster Fighter, Champion Fighter
+Squire
+>>??
+Summoner
+>>Generalist Wizard
+>>Evocation Wizard
+>>Conjuration Wizard - 
+Thief
+>>Thief Rogue
+
+<h1>
+Research Sources</h1>
+<ul>
+<li><a href="http://www.neuronphaser.com/dungeons-dragons-5e-final-fantasy-tactics-meets-dd-basic-rules/">NeuronPhaser</a></li>
+</ul>

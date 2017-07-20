@@ -1,0 +1,60 @@
+<h1>D&D 5e FFT: Jobs 4</h1>
+
+<a href="http://circumstancemods.blogspot.ca/2017/05/d-5e-final-fantasy-tactics-intro-index.html"><img class="postheaderimage" src="https://3.bp.blogspot.com/-dKHG7dLASnw/WRtaQX5CKNI/AAAAAAAAABc/VC7EQ9am7l4_vXnf2Awj79-UnjQej19HACLcB/s1600/D%2526D%2BFFT%2BLogo.png" /></a>
+<a href="http://circumstancemods.blogspot.ca/2017/05/d-5e-fft-jobs-4.html"><h1 class="postheadertext">Job Creation 4</h1></a>
+<p>Welcome to Part 4 of Job Builds! Up next: The Archer, and the Machinist(Sniper)!</p>
+<h1 style="clear: both;">Archer</h1>
+<img class="floatright"  src="https://2.bp.blogspot.com/-XEeYgPMyJqU/WSek9oVf_cI/AAAAAAAAAEI/hfQNikVe3ZsO0Kq9MhYc44Urudy7HIiHgCLcB/s1600/Archer.png" height="600px"/>
+<p><strong>Premise</strong> — The Archer is a mundane martial class that specializes on one thing: Ranged Damage. The class is one of two classes with a single feature, which just improves. As for what flavor to use outside combat, it's a toss up, but it should be nonmagical.</p>
+<p><strong>Core Gameplay Abilities</strong> — Take Aim</p>
+<h2>Class/Subclass Options</h2>
+<p><strong>Sharpshooter Fighter</strong> — This is the best fit, it even has the "Take Aim" option.</p>
+<p><em>Archer = Sharpshooter Fighter.</em></p>
+<p><strong>Note:</strong> <a href="https://media.wizards.com/2016/dnd/downloads/2016_Fighter_UA_1205_1.pdf">The Sharpshooter Subclass</a> for fighter is basically a <strong>PERFECT</strong> fit for the Archer class in FFT. However, some of the other archer options fit well into the setting. Arcane Archer gives us an archer gish, which is pretty awesome, and Scout gives a great scout option. Champion Fighter could also be a good fit, and in fact it was the one I was thinking of before I started investigating the options. Ranger's nature themes and nature-based spellcasting is the only one that is a weak fit in our medieval politics and warfare world.</p>
+
+<h1 style="clear: both;">Machinist(Sniper)</h1>
+<img class="floatright"  src="https://3.bp.blogspot.com/--W9ankhuFrk/WSfsaj0m1SI/AAAAAAAAAFA/Ppenf-zg-gkxdLiAuF49Cl0bhEGahh2CACLcB/s1600/Engineer.png" height="600px"/>
+<p><strong>Premise</strong> — I was looking at the Machinist Job, and was looking at the gunsmith Artificer, and while you *could* use that, it's not the best fit. The Machinists in FFT aren't mages in the least. They don't have mechanical servants. Artificers could fit into Goug thematically, particularly if you're running your game in a more magitech time period, but they're a bit too techy for the War of the Lions. I originally put Engineer away, stumped at how to do it in 5e. Battlemaster fighter with firearms is how to do it. But I'm going to make a few small tweaks to Proficiency. Additionally, some sort of homebrew crafting rules would be a great help, to allow our Machinist to repair and build simple machines.</p>
+<p><strong>Core Gameplay Abilities</strong> — Snipe - mostly called-shot themed class features, that cripple the opponent.</p>
+<h2>Class/Subclass Options</h2>
+<p><strong>Battlemaster Fighter</strong> —  A stun maneuver would be good if we were to expand this, or some sort of temporary limb-disabling maneuver. But this is our best option for the in-combat stuff. I'm going to suggest additional maneuvers from a <a href="http://www.giantitp.com/forums/showthread.php?472122-New-Battlemaster-Maneuvers">Giant in the Playground thread</a> by Ruslan. Specifically, <em>Action Before Thought, Befuddling Strike, Bleeding Strike, Blinding Strike, Covering Strike, Exhausting Strike, Far Shot, Penetrating Strike, and Stealthy Shot</em>. You can find them reposted below, as I did for the Fencer.</p>
+<p><em>Machinist = Battlemaster Fighter.</em></p>
+<div class="gamestats">
+	<div class="dndlens">
+		<h1 class="dndlensname">Machinist Battle Master Fighter</h1>
+		<div class="dndlensdescription">"A Machinist strikes specific areas of the target's body to cause effects."</div>
+		<div class="dndlenscategory">
+			<h3 class="dndlenscategoryheader">Proficiencies</h3>
+			<div class="dndlenscategorytext">
+				<div class="dndlenscategoryitem"><span class="field">Armor:</span> Light Armor, Medium Armor</div>
+				<div class="dndlenscategoryitem"><span class="field">Weapons:</span> Simple Weapons, Martial Ranged Weapons, Firearms</div>
+				<div class="dndlenscategoryitem"><span class="field">Tools:</span> Smith's Tools, Tinker's Tools</div>
+				<div class="dndlenscategoryitem"><span class="field">Saving Throws:</span> Dexterity, Intelligence</div>
+				<div class="dndlenscategoryitem"><span class="field">Skills:</span> Choose three skills from Athletics, History, Insight, Perception, Religion, and Sleight of Hand</div>
+			</div>
+		</div>
+		<div class="dndlenscategory">
+			<h3 class="dndlenscategoryheader">Battle Master</h3>
+			<div class="dndlenscategorytext">
+				<div class="dndlenscategoryitem"><span class="field">Combat Superiority:</span> Add the following maneuvers<br />
+				<span class="field">ACTION BEFORE THOUGHT (Battle Master Maneuver):</span> When you make an Initiative check, you can expend one superiority die to add the number rolled on the die to your Initiative result. You can use this maneuver before or after making the Initiative roll, but before the DM announces initiative order.<br />
+				<span class="field">BEFUDDLING STRIKE (Battle Master Maneuver):</span> When you hit a creature with a weapon attack, you can expend one superiority die to confuse the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom save. On a failure, the first attack made by the target during its next turn targets a random creature the target can see within its reach or range. The target is unaware of this effect until it occurs. <em>Requires Level 15</em><br />
+				<span class="field">BLEEDING STRIKE (Battle Master Maneuver):</span> When you hit a living creature with a weapon attack, you can expend one superiority die to create a bleeding wound. You add the superiority die to the attack's damage roll. At the beginning of your next turn, roll the superiority die again and deal this much necrotic damage to the target due to bleeding. This additional damage is dealt even if you're dead.<br />
+				<span class="field">BLINDING STRIKE (Battle Master Maneuver):</span> When you hit a creature with a weapon attack, you can expend one superiority die to blind the target. You add the superiority die to the attack's damage roll, and the target must make a Constitution save or become blinded until the end of its next turn. <em>Requires Level 15</em><br />
+				<span class="field">COVERING STRIKE (Battle Master Maneuver):</span> When you hit a creature with a weapon attack, you can expend one superiority die to make the target slow to react. You add the superiority die to the attack's damage roll, and the target must make a Constitution save. On a failure, the target can't take reactions until the start of your next turn. <br />
+				<span class="field">DISPELLING STRIKE (Battle Master Maneuver):</span> When you hit a creature with a weapon attack, you can expend one superiority die to interrupt the target's concentration. You add the superiority die to the attack's damage roll, and the target has Disadvantage on any saves to maintain concentration until the beginning of your next turn. <em>Requires level 9</em><br />
+				<span class="field">EXHAUSTING STRIKE (Battle Master Maneuver):</span> When you hit a creature with a weapon attack, you can expend one superiority die to exhaust the target. You add the superiority die to the attack's damage roll, and the target must make a Constitution save or acquire one level of Exhaustion.<br />
+				<span class="field">FAR SHOT (Battle Master Maneuver):</span> When you make a ranged weapon attack, you can expend one superiority die to double the weapon’s range. If the attack hits, add the superiority die to the damage roll.<br />
+				<span class="field">PENETRATING STRIKE (Battle Master Maneuver):</span> When you hit a creature with a weapon attack, you can expend one superiority die to overcome the target’s defenses. Add the superiority die to the damage roll. If the target has resistance to the type of damage dealt by the attack, that resistance is ignored. If the target is immune to that type of damage, it becomes resistance instead.<br />
+				<span class="field">STEALTHY SHOT (Battle Master Maneuver):</span> When you make a ranged weapon attack while hidden, you can expend one superiority die to remain unseen. The attack does not automatically reveal your position. Make a Dexterity (Stealth) check. If the result of this check beats the passive Wisdom (Perception) score of each enemy that could potentially observe you, you stay hidden. If the attack hits, add the superiority die to the damage roll.
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<p><strong>Note:</strong> Battlemaster for fighter is a great fit for the Machinist job in FFT, once these changes and extra maneuvers have been added, especially. </p>
+<p><strong>Roleplay:</strong> You are familiar with long forgotten steam and magi-tech equipment, from the last great fallen civilization, and you're well versed in the history of the land, as many snippets of wondrous technological knowledge came from centuries-old historical documents.</p>
+
+<p style="clear: both;">That's the two for today; More Job Builds will be coming this weekend. We've gotten a good chunk of them done, and I've (admittedly) gotten many of the easier ones out of the way, simply because I haven't ironed out how best to handle some of the more difficult ones in 5e. The rest could be on the trickier side, not having a good 5e analogue (The FFT Samurai and Summoner spring to mind as potential examples). We'll see what we can cook up.</p>
+<p>Catch you guys again this weekend!</p>
+<p class="signature">Hawkwinter</p>
